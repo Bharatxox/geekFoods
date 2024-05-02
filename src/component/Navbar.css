@@ -1,0 +1,28 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 10rem;
+    align-items: center;
+    background-color: rgb(17,24,39);
+    color: white;
+    
+}
+.logo{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.logo-name{
+    font-size: 25px;
+    margin: 15px 0;
+    font-weight: bold;
+}
+.options{
+    min-width: 500px;
+}
+.list{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+}

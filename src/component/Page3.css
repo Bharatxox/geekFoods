@@ -1,0 +1,45 @@
+.three{
+    width: 100%;
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.box{
+    width: 400px;
+    /* background-color: aquamarine; */
+    padding: 1rem;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    
+}
+.review{
+    /* width: 100%; */
+    background-color: blue;
+    padding: 15px;
+    border-radius: 10px;
+
+}
+.name{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.username{
+    display: flex;
+    flex-direction: column;
+    gap: 2px
+}
+.username p{
+    margin: 0;
+}
+.profileImage{
+    height: 48px;
+    width: 48px;
+    border-radius: 50px;
+}
+.bold{
+    font-weight: 600;
+}

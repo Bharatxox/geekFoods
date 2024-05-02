@@ -1,0 +1,13 @@
+.two{
+    display: flex;
+    width: 100%;
+}
+.left-container{
+    width: 50%;
+}
+.right-container{
+    width: 50%;
+}
+.imagePage1{
+    width: 100%;
+}
