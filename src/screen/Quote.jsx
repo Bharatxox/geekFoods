@@ -1,6 +1,7 @@
 import Navbar from "../component/Navbar";
 import quote from "../component/json/quote.json";
 import QuoteCard from "../component/QuoteCard";
+import Footer from "../component/Footer";
 
 const Quote = () => {
   return (
@@ -15,6 +16,7 @@ const Quote = () => {
           />
         ))}
       </div>
+      <Footer />
     </>
   );
 };
