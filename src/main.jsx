@@ -9,7 +9,7 @@ import Quote from "./screen/Quote.jsx";
 ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
     {/* <LandingScreen/> */}
-    {/* <Resturants /> */}
-    <Quote />
+    <Resturants />
+    {/* <Quote /> */}
   </React.StrictMode>
 );

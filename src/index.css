@@ -2,4 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-
+svg.star-svg {
+    display: inline;
+}
